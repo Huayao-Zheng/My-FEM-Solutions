@@ -1,0 +1,1 @@
+{"version":3,"sources":["scss\\main.scss"],"names":[],"mappings":"AAEA;EACE,YAHI;EAIJ;;AAEA;EACE","file":"main.77bb5cfd.css","sourceRoot":"..","sourcesContent":["$red: red;\r\n\r\nbody {\r\n  background: $red;\r\n  color: rgb(14, 6, 6);\r\n\r\n  &:hover {\r\n    color: rgb(34, 192, 153);\r\n  }\r\n}\r\n"]}
