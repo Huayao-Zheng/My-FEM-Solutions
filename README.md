@@ -16,13 +16,13 @@ This repository is a collection of all my solutions I submitted at [frontendment
 
 ### Junior
 
-| Tags                                 | Challanges             | Live                                                                | Code                                                                | Type |
-| ------------------------------------ | ---------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------- | ---- |
-| HTML--CSS--JS--React                 | GitHub user search app | [Live](https://lonelybuddy.github.io/react-github-user-search-app/) | [Code](https://github.com/LonelyBuddy/react-github-user-search-app) | Pro  |
-| HTML--CSS/Sass--JS--React/ContextAPI | Todo app               | [Live](https://lonelybuddy.github.io/react-to-do/)                  | [Code](https://github.com/LonelyBuddy/react-to-do)                  | Free |
+| Tags                 | Challanges             | Live                                                                | Code                                                                | Type |
+| -------------------- | ---------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------- | ---- |
+| HTML--CSS--JS--React | GitHub user search app | [Live](https://lonelybuddy.github.io/react-github-user-search-app/) | [Code](https://github.com/LonelyBuddy/react-github-user-search-app) | Pro  |
 
-### Junior
+### Intermediate
 
-| Tags                      | Challanges     | Live                                                  | Code                                                  | Type |
-| ------------------------- | -------------- | ----------------------------------------------------- | ----------------------------------------------------- | ---- |
-| HTML--CSS/Sass--JS--React | Calculator app | [Live](https://lonelybuddy.github.io/calculator-app/) | [Code](https://github.com/LonelyBuddy/calculator-app) | Free |
+| Tags                                 | Challanges     | Live                                                  | Code                                                  | Type |
+| ------------------------------------ | -------------- | ----------------------------------------------------- | ----------------------------------------------------- | ---- |
+| HTML--CSS/Sass--JS--React/ContextAPI | Todo app       | [Live](https://lonelybuddy.github.io/react-to-do/)    | [Code](https://github.com/LonelyBuddy/react-to-do)    | Free |
+| HTML--CSS/Sass--JS--React            | Calculator app | [Live](https://lonelybuddy.github.io/calculator-app/) | [Code](https://github.com/LonelyBuddy/calculator-app) | Free |
