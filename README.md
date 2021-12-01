@@ -16,9 +16,10 @@ This repository is a collection of all my solutions I submitted at [frontendment
 
 ### Junior
 
-| Tags                 | Challanges             | Live                                                                | Code                                                                | Type |
-| -------------------- | ---------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------- | ---- |
-| HTML--CSS--JS--React | GitHub user search app | [Live](https://lonelybuddy.github.io/react-github-user-search-app/) | [Code](https://github.com/LonelyBuddy/react-github-user-search-app) | Pro  |
+| Tags                 | Challanges                | Live                                                                | Code                                                                | Type |
+| -------------------- | ------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------- | ---- |
+| HTML--CSS/Sass       | Testimonials grid section | [Live](https://lonelybuddy.github.io/testimonial-grid-section/)     | [Code](https://github.com/LonelyBuddy/testimonial-grid-section)     | Free |
+| HTML--CSS--JS--React | GitHub user search app    | [Live](https://lonelybuddy.github.io/react-github-user-search-app/) | [Code](https://github.com/LonelyBuddy/react-github-user-search-app) | Pro  |
 
 ### Intermediate
 
