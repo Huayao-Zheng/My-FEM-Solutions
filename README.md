@@ -18,6 +18,7 @@ This repository is a collection of all my solutions I submitted at [frontendment
 
 | Tags                 | Challanges                | Live                                                                | Code                                                                | Type |
 | -------------------- | ------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------- | ---- |
+| HTML--CSS/Sass       | Time tracking dashboard   | [Live](https://lonelybuddy.github.io/time-tracking-dashboard/)      | [Code](https://github.com/LonelyBuddy/time-tracking-dashboard)      | Free |
 | HTML--CSS/Sass       | Testimonials grid section | [Live](https://lonelybuddy.github.io/testimonial-grid-section/)     | [Code](https://github.com/LonelyBuddy/testimonial-grid-section)     | Free |
 | HTML--CSS--JS--React | GitHub user search app    | [Live](https://lonelybuddy.github.io/react-github-user-search-app/) | [Code](https://github.com/LonelyBuddy/react-github-user-search-app) | Pro  |
 
