@@ -16,12 +16,13 @@ This repository is a collection of all my solutions I submitted at [frontendment
 
 ### Junior
 
-| Tags                 | Challanges                         | Live                                                                      | Code                                                                | Type |
-| -------------------- | ---------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------- | ---- |
-| HTML--CSS/Scss       | Typemaster pre-launch landing page | [Live](https://lonelybuddy.github.io/Typemaster-pre-launch-landing-page/) | [Code](https://www.frontendmentor.io/solutions/htmlscss-ujBDfiSpF)  | Free |
-| HTML--CSS/Scss       | Time tracking dashboard            | [Live](https://lonelybuddy.github.io/time-tracking-dashboard/)            | [Code](https://github.com/LonelyBuddy/time-tracking-dashboard)      | Free |
-| HTML--CSS/Scss       | Testimonials grid section          | [Live](https://lonelybuddy.github.io/testimonial-grid-section/)           | [Code](https://github.com/LonelyBuddy/testimonial-grid-section)     | Free |
-| HTML--CSS--JS--React | GitHub user search app             | [Live](https://lonelybuddy.github.io/react-github-user-search-app/)       | [Code](https://github.com/LonelyBuddy/react-github-user-search-app) | Pro  |
+| Tags                 | Challanges                          | Live                                                                      | Code                                                                      | Type |
+| -------------------- | ----------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ---- |
+| HTML--CSS/Scss--JS   | Coding bootcamp testimonials slider | [Live](https://lonelybuddy.github.io/testimonials-slider/)                | [Code](https://github.com/LonelyBuddy/testimonials-slider)                | Free |
+| HTML--CSS/Scss       | Typemaster pre-launch landing page  | [Live](https://lonelybuddy.github.io/Typemaster-pre-launch-landing-page/) | [Code](https://github.com/LonelyBuddy/Typemaster-pre-launch-landing-page) | Free |
+| HTML--CSS/Scss       | Time tracking dashboard             | [Live](https://lonelybuddy.github.io/time-tracking-dashboard/)            | [Code](https://github.com/LonelyBuddy/time-tracking-dashboard)            | Free |
+| HTML--CSS/Scss       | Testimonials grid section           | [Live](https://lonelybuddy.github.io/testimonial-grid-section/)           | [Code](https://github.com/LonelyBuddy/testimonial-grid-section)           | Free |
+| HTML--CSS--JS--React | GitHub user search app              | [Live](https://lonelybuddy.github.io/react-github-user-search-app/)       | [Code](https://github.com/LonelyBuddy/react-github-user-search-app)       | Pro  |
 
 ### Intermediate
 
