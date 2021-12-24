@@ -28,5 +28,6 @@ This repository is a collection of all my solutions I submitted at [frontendment
 
 | Tags                                 | Challanges     | Live                                                  | Code                                                  | Type |
 | ------------------------------------ | -------------- | ----------------------------------------------------- | ----------------------------------------------------- | ---- |
+| HTML--CSS/Scss--JS--React/ContextAPI | Clock app      | [Live](https://lonelybuddy.github.io/clock-app/)      | [Code](https://github.com/LonelyBuddy/clock-app)      | Pro  |
 | HTML--CSS/Scss--JS--React/ContextAPI | Todo app       | [Live](https://lonelybuddy.github.io/react-to-do/)    | [Code](https://github.com/LonelyBuddy/react-to-do)    | Free |
 | HTML--CSS/Scss--JS--React            | Calculator app | [Live](https://lonelybuddy.github.io/calculator-app/) | [Code](https://github.com/LonelyBuddy/calculator-app) | Free |
