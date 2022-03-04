@@ -4,7 +4,7 @@ This repository is a collection of all my solutions I submitted at [frontendment
 
 ### Newbie
 
-| Tags               | Challanges                      | Live                                                                   | Code                                                                   | Type |
+| Tags               | Challenges                      | Live                                                                   | Code                                                                   | Type |
 | ------------------ | ------------------------------- | ---------------------------------------------------------------------- | ---------------------------------------------------------------------- | ---- |
 | HTML--CSS/Scss--JS | Base Apparel coming soon page   | [Live](https://lonelybuddy.github.io/base-apparel-coming-soon-page/)   | [Code](https://github.com/LonelyBuddy/base-apparel-coming-soon-page)   | Free |
 | HTML--CSS/Scss     | FAQ accordion card              | [Live](https://lonelybuddy.github.io/faq-accordion-card/)              | [Code](https://github.com/LonelyBuddy/faq-accordion-card)              | Free |
@@ -16,7 +16,7 @@ This repository is a collection of all my solutions I submitted at [frontendment
 
 ### Junior
 
-| Tags                 | Challanges                          | Live                                                                      | Code                                                                      | Type |
+| Tags                 | Challenges                          | Live                                                                      | Code                                                                      | Type |
 | -------------------- | ----------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ---- |
 | HTML--CSS/Scss--JS   | Suite landing page                  | [Live](https://suite-landingpage.netlify.app/)                            | [Code](https://github.com/LonelyBuddy/suite-landing-page)                 | Pro  |
 | HTML--CSS/Scss--JS   | Coding bootcamp testimonials slider | [Live](https://lonelybuddy.github.io/testimonials-slider/)                | [Code](https://github.com/LonelyBuddy/testimonials-slider)                | Free |
@@ -27,7 +27,7 @@ This repository is a collection of all my solutions I submitted at [frontendment
 
 ### Intermediate
 
-| Tags                                 | Challanges     | Live                                                  | Code                                                  | Type |
+| Tags                                 | Challenges     | Live                                                  | Code                                                  | Type |
 | ------------------------------------ | -------------- | ----------------------------------------------------- | ----------------------------------------------------- | ---- |
 | HTML--CSS/Scss--JS--React/ContextAPI | Clock app      | [Live](https://lonelybuddy.github.io/clock-app/)      | [Code](https://github.com/LonelyBuddy/clock-app)      | Pro  |
 | HTML--CSS/Scss--JS--React/ContextAPI | Todo app       | [Live](https://lonelybuddy.github.io/react-to-do/)    | [Code](https://github.com/LonelyBuddy/react-to-do)    | Free |
