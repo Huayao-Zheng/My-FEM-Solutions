@@ -6,6 +6,7 @@ This repository is a collection of all my solutions I submitted at [frontendment
 
 | Tags                        | Challenges                      | Live                                                                   | Code                                                                   | Type |
 | --------------------------- | ------------------------------- | ---------------------------------------------------------------------- | ---------------------------------------------------------------------- | ---- |
+| HTML--CSS--Tailwind-css     | Single price grid component     | [Live](https://single-price-grid-fem.netlify.app/)                     | [Code](https://github.com/LonelyBuddy/single-pricec-grid-component)    | Free |
 | HTML--CSS--JS--Tailwind-css | Advice generator app            | [Live](https://advice-generator-fem.netlify.app/)                      | [Code](https://github.com/LonelyBuddy/advice-generator)                | Free |
 | HTML--CSS/Scss--JS          | Base Apparel coming soon page   | [Live](https://lonelybuddy.github.io/base-apparel-coming-soon-page/)   | [Code](https://github.com/LonelyBuddy/base-apparel-coming-soon-page)   | Free |
 | HTML--CSS/Scss              | FAQ accordion card              | [Live](https://lonelybuddy.github.io/faq-accordion-card/)              | [Code](https://github.com/LonelyBuddy/faq-accordion-card)              | Free |
