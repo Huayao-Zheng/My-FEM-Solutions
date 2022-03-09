@@ -20,6 +20,7 @@ This repository is a collection of all my solutions I submitted at [frontendment
 
 | Tags                 | Challenges                          | Live                                                                      | Code                                                                      | Type |
 | -------------------- | ----------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ---- |
+| HTML--CSS/Scss--JS   | Sunnyside agency landing page       | [Live](https://sunnysidelandingfem.netlify.app/)                          | [Code](https://github.com/LonelyBuddy/sunnyside-agency-landing-page)      | Pro  |
 | HTML--CSS/Scss--JS   | Suite landing page                  | [Live](https://suite-landingpage.netlify.app/)                            | [Code](https://github.com/LonelyBuddy/suite-landing-page)                 | Pro  |
 | HTML--CSS/Scss--JS   | Coding bootcamp testimonials slider | [Live](https://lonelybuddy.github.io/testimonials-slider/)                | [Code](https://github.com/LonelyBuddy/testimonials-slider)                | Free |
 | HTML--CSS/Scss       | Typemaster pre-launch landing page  | [Live](https://lonelybuddy.github.io/Typemaster-pre-launch-landing-page/) | [Code](https://github.com/LonelyBuddy/Typemaster-pre-launch-landing-page) | Free |
