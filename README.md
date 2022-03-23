@@ -20,6 +20,7 @@ This repository is a collection of all my solutions I submitted at [frontendment
 
 | Tags                 | Challenges                          | Live                                                                      | Code                                                                      | Type |
 | -------------------- | ----------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ---- |
+| HTML--CSS/Scss--JS   | Loopstudios landing page            | [Live](https://loopstudiosfem.netlify.app/)                               | [Code](https://github.com/LonelyBuddy/Loopstudios-landing-page)           | Free |
 | HTML--CSS/Scss--JS   | Sunnyside agency landing page       | [Live](https://sunnysidelandingfem.netlify.app/)                          | [Code](https://github.com/LonelyBuddy/sunnyside-agency-landing-page)      | Pro  |
 | HTML--CSS/Scss--JS   | Suite landing page                  | [Live](https://suite-landingpage.netlify.app/)                            | [Code](https://github.com/LonelyBuddy/suite-landing-page)                 | Pro  |
 | HTML--CSS/Scss--JS   | Coding bootcamp testimonials slider | [Live](https://lonelybuddy.github.io/testimonials-slider/)                | [Code](https://github.com/LonelyBuddy/testimonials-slider)                | Free |
